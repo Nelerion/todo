@@ -8,8 +8,8 @@ ____
 
 ____
 **Использовал:**
-- react-router-dom
 - styled-components
+- typeScript
 ____
 **Запуск:**
 - npm install
